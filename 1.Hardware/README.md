@@ -1,3 +1,5 @@
+![img1](/.assets/home/img1.jpg)
+
 系统安装&配置
 
 ### 2.1 镜像烧录
